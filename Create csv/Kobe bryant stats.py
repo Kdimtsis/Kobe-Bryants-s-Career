@@ -85,12 +85,12 @@ class Kobe():
 
     def write_to_csv(self):
 
-        """FUNCTION THAT WRITES ALL STATS TO CSV"""
+        """WRITE ALL STATS TO CSV"""
 
         lst = self.season_link()
 
         # WRITE TO CSV
-        with open("FINAL_Kobe_Bryant_stats.csv", "w", newline="", encoding="utf-8") as file:
+        with open("Kobe_Bryant_stats.csv", "w", newline="", encoding="utf-8") as file:
             csv_writer = writer(file)
 
             # WRITE THE HEADERS FIRST
