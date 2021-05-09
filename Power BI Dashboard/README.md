@@ -3,7 +3,7 @@
 This is a preview of the PowerBI file ('Kobe bryant stats.pbix')
 
 To access the full interactive dashboard click here:
-
+ 
 https://app.powerbi.com/view?r=eyJrIjoiYWIzZjdiYzUtNzRlNC00NjZhLWFiNWEtNWYxMjk3NjIxMmM2IiwidCI6IjU5Y2YwYWNhLTI0NmUtNGMyNy04YmRjLTE5ZjdhYTQyMDcwMyIsImMiOjl9&pageName=ReportSection
 
 ## Preview images:
