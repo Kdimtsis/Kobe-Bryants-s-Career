@@ -18,4 +18,5 @@ https://app.powerbi.com/view?r=eyJrIjoiZDkyNjZiNDYtNTNhMC00N2ZkLThkNTItNGFhN2IxO
 
 3rd Page: Kobe vs NBA
 
-![Vs NBA](https://user-images.githubusercontent.com/72921465/115162758-f8452700-a0ad-11eb-879e-354a8e691ed9.PNG)
+![Kobe vs NBA](https://user-images.githubusercontent.com/72921465/117574518-18349d00-b0e6-11eb-99a5-a4b87299b4d0.PNG)
+
