@@ -14,7 +14,7 @@ https://app.powerbi.com/view?r=eyJrIjoiZDkyNjZiNDYtNTNhMC00N2ZkLThkNTItNGFhN2IxO
 
 2nd Page: Career Averages
 
-![Career](https://user-images.githubusercontent.com/72921465/115162752-ec596500-a0ad-11eb-9063-3a6ae82b2c34.PNG)
+![Career Averages](https://user-images.githubusercontent.com/72921465/117574478-e6bbd180-b0e5-11eb-94ca-c51f1e3af785.PNG)
 
 3rd Page: Kobe vs NBA
 
