@@ -2,26 +2,26 @@
 
 Nba Champion trophy
 
-![NBA-Champion-Trophy](https://user-images.githubusercontent.com/72921465/119199217-5d1be480-ba93-11eb-978e-50629f6bd465.jpg)
+![image](https://user-images.githubusercontent.com/72921465/119199534-ea5f3900-ba93-11eb-9354-77b7918396ce.png)
 
 Finals MVP trophy
 
-![Finals-MVP-Trophy](https://user-images.githubusercontent.com/72921465/119199292-7f156700-ba93-11eb-865b-d3c8dfcc1a2b.jpg)
+![image](https://user-images.githubusercontent.com/72921465/119199568-fe0a9f80-ba93-11eb-9afa-1068d178751f.png)
 
 MVP trophy
 
-![Mvp-Trophy](https://user-images.githubusercontent.com/72921465/119199329-89cffc00-ba93-11eb-8fb6-59d7ad79ab45.png)
+![image](https://user-images.githubusercontent.com/72921465/119199627-137fc980-ba94-11eb-85e2-c97797cec9b0.png)
 
 All-Star game MVP trophy
 
-![All-star-game-mvp-trophy](https://user-images.githubusercontent.com/72921465/119199375-99e7db80-ba93-11eb-9437-455abaa54f98.jpg)
+![image](https://user-images.githubusercontent.com/72921465/119199667-25616c80-ba94-11eb-960f-48835da95be6.png)
 
 Black Mamba logo
 
-![Kobe-bryant-logo-black-mamba](https://user-images.githubusercontent.com/72921465/119199461-c26fd580-ba93-11eb-9169-4639c427335e.jpg)
+![image](https://user-images.githubusercontent.com/72921465/119199711-3d38f080-ba94-11eb-96c9-a096cb2dd919.png)
 
 Kobe Bryant
 
-![Kobe-Bryant](https://user-images.githubusercontent.com/72921465/119199421-af5d0580-ba93-11eb-8ae7-bde20f83e63a.png)
+![image](https://user-images.githubusercontent.com/72921465/119199764-5477de00-ba94-11eb-8c77-1df92b375327.png)
 
 
