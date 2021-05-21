@@ -1,3 +1,3 @@
 # Analyzing Kobe-Bryants-Career
 
-An interactive dashboard made in POWER BI analyzing Kobe Bryant's career.
+A repository that creates an interactive dashboard made in POWER BI analyzing Kobe Bryant's career.
